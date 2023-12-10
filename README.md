@@ -2,6 +2,8 @@
 
 Project 4P-GraphSearch from CSCI220 (data structures & algorithms). Simple graph implementation with shortest path BFS.
 
+Source: github.com/Mines-CSCI220/4P-GraphSearch.git
+
 ## To Compile/Run
 1. `cmake . -B build` (on Windows native, use `cmake . -B build -G "MinGW Makefiles"`)
 2. `cd build`
