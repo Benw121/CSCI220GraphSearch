@@ -12,7 +12,6 @@
 #include "graph.h"
 
 using namespace std;
-
 bool pair_compare(vector<int> a, vector<int> b) {
     if (a[0] != b[0]) {
         return a[0] < b[0];
